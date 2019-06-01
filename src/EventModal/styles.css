@@ -1,0 +1,25 @@
+.add-event-header {
+    color: var(--main-color);
+    display: flex;
+    justify-content: center;
+}
+
+.button-container {
+    position: absolute;
+    bottom: 20px;
+    width: 100%;
+    text-align: center;
+}
+
+.close-button-style {
+    color: var(--text-color);
+    border: solid 1px var(--border-color);
+    padding: 10px 20px;
+    margin-left: 10px;
+}
+.submit-button-style {
+    color: var(--text-color);
+    border: solid 1px var(--border-color);
+    padding: 10px 20px;
+     
+}
